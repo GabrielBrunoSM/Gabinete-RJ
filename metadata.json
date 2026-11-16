@@ -1,0 +1,6 @@
+{
+  "name": "Caderno Carioca — Roteiro Rio de Janeiro",
+  "description": "Roteiro interativo de viagem pelo Rio de Janeiro de 16 a 23 de Novembro, com programação dia a dia, conexões geográficas e checklist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
